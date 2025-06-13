@@ -1,6 +1,7 @@
  Movie Recommendation System:-
 
 A simple **content-based movie recommendation system** built with Python. It uses natural language processing (NLP) to find and suggest similar movie titles based on user input.
+![image](https://github.com/user-attachments/assets/618fbcec-ca07-41c3-a443-e0085723b799)
 
 
  Project Overview:-
